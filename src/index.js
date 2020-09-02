@@ -10,9 +10,7 @@ export default class Pencil {
     return this.durability;
   }
 
-  getPencilLength() {
-    return this.length;
-  }
+  
 
   getEraserDurability() {
     return this.eraserDurability;
